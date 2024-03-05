@@ -25,13 +25,7 @@ Multi-Scale Context Mask-RCNN Network for Slant Angled Aerial Imagery in Instanc
    
  - ***Docker support***   
    
-   To make things alot easier for environmental setup, I have uploaded my docker image on Dockerhub,
-   
-   please use the following command to get the docker
-   ````
-   $docker pull donkeymouse/donkeymouse:icra
-   ````
-   *If there persists any problems, please file an issue!
+
    
    
 ## How To Use: ./input --output_folder ./output --checkpoint ./translation_weights.pt --a2b 0 --seed 1234 --num_style 5 --synchronized --output_only --config configs/tir2rgb_folder.yaml
