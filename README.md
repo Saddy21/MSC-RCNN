@@ -47,6 +47,6 @@ While instance segmentation models excel at object detection in satellite imager
    
 - ***Network weights***
 
-Please download them from here: [{link to google drive}]()
+Please download pretrained weights from here: [{https://tinyurl.com/38p8y9hm}]()
 
 *If the link doesn't work, please file an issue!
