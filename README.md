@@ -23,7 +23,7 @@ Multi-Scale Context Mask-RCNN Network for Slant Angled Aerial Imagery in Instanc
    ````
    
    
- - ***Docker support***   
+ 
    
 
    
@@ -37,6 +37,7 @@ Multi-Scale Context Mask-RCNN Network for Slant Angled Aerial Imagery in Instanc
     ````
    $python3 inference_batch.py --input_folder 
     ````
+    
    
 - ***Network weights***
 
