@@ -19,7 +19,7 @@ Multi-Scale Context Mask-RCNN Network for Slant Angled Aerial Imagery in Instanc
 
  - ***Download Repo***   
    ````shell
-   $ git clone [https://github.com/](https://github.com/Saddy21/MSC-RCNN.git)
+   $ git clone https://github.com/Saddy21/MSC-RCNN.git
    ````
    
    
