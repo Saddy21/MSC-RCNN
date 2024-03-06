@@ -28,15 +28,24 @@ Multi-Scale Context Mask-RCNN Network for Slant Angled Aerial Imagery in Instanc
 
    
    
-## How To Use: ./input --output_folder ./output --checkpoint ./translation_weights.pt --a2b 0 --seed 1234 --num_style 5 --synchronized --output_only --config configs/tir2rgb_folder.yaml
+## How To Use: 
+** Code to be released soon **
+
+-  ***Train***
+   $python3 train.py
+   
  - ***Inference***  
    ````
-   $ python3 inference_batch.py --input_folder
+   To visulize the results
+   $ python3 test.py
+
+   To obtain metrics
+   $ python3 testacc.py
+   
    ````
    
-    ````
-   $python3 inference_batch.py --input_folder 
-    ````
+   
+   
     
    
 - ***Network weights***
