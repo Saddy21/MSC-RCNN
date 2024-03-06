@@ -32,7 +32,9 @@ Multi-Scale Context Mask-RCNN Network for Slant Angled Aerial Imagery in Instanc
 ** Code to be released soon **
 
 -  ***Train***
+   ````
    $python3 train.py
+   ````
    
  - ***Inference***  
    ````
